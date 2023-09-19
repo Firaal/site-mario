@@ -20,9 +20,3 @@ Este é um projeto que foi desenvolvido com intuito de revisar conceitos de _HTM
 - [x] Animações com a biblioteca [AOS](https://michalsnik.github.io/aos/)
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
-
-
-## 📝 Tema de casa
-
-- [ ] Criar responsividade
-- [ ] Adicionar efeito de hover nos botões
