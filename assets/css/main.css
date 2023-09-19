@@ -1,0 +1,46 @@
+.principal
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1440px;
+    margin: 60px auto;
+}
+.secao__info
+{
+    width: 100%;
+    max-width: 570px;
+}
+.secao__paragrafo
+{
+    font-size: 18px;
+    margin: 20px 0 28px;
+}
+.secao__info div
+{
+    display: flex;
+    gap: 32px;
+}
+.secao__info div a
+{
+    background-color: var(--red);
+}
+.secao__info div button
+{
+    background-color: transparent;
+    border: 1px solid var(--red);
+}
+.secao__info div a,
+.secao__info div button
+{
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    transform: skew(-10deg);
+}
